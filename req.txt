@@ -1,0 +1,9 @@
+@pinecone-database/pinecone
+@langchain/community 
+@langchain/core 
+dotenv 
+langchain 
+openai
+pdf-parse
+langchain pinecone-client
+readline
